@@ -1,4 +1,4 @@
-# Economic-Performance-Analysis-of-Indian-States-Using-SQL
+# Economic-Performance-Analysis-of-Indian-States-Using-SQL and Power BI
 This project uses SQL to analyze rural unemployment, inflation, and GSDP growth trends across Indian states. The dataset is structured into a relational database to uncover economic patterns and performance insights.
 
 **Business Objectives**
